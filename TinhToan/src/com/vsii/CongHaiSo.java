@@ -9,7 +9,8 @@ public class CongHaiSo {
 		return a-b;
 	}
 	
-	public int truBaso(int a, int b, int c) {
-		return a-b-c;
+	public int chiaHaiSo(int a, int b) {
+		return a/b;
 	}
+
 }
