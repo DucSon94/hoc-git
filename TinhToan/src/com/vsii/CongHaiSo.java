@@ -8,5 +8,9 @@ public class CongHaiSo {
 	public int hieuHaiSo(int a, int b) {
 		return a-b;
 	}
+	
+	public int chiaHaiSo(int a, int b) {
+		return a/b;
+	}
 
 }
